@@ -1,0 +1,17 @@
+-ls /show files in repasitories
+
+-cd /change the repasitory
+  +~
+  +..
+
+-gedit filename /open file in gedit
+
+-cat /show text file in terminal screen
+
+-git
+  +push /save the fie in the server(github)
+  +add /save the file
+  +commit /save the file locally
+
+
+
