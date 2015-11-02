@@ -1,0 +1,42 @@
+
+1. Open up an application called "Terminal" on your computer.
+
+2. Type        git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git      on terminal.
+
+3. You need to type your account's username of github.com in place for "your-network-username" and password for "your-network-password".
+
+4. Press Enter
+
+5. Type "ls" and enter. Check if your repository is there. If it is not, start it all over again.
+
+6. Type "cd" and space. And then write your repository's name. 
+
+7. Press Enter
+
+8. Type "gedit" and space. And then write the file's name(anything you want to call it).
+
+9. Press Enter
+
+10. A window will appear, and it is the file you just created.
+
+11. Edit and make any changes you want on the file.
+
+12. Save it by pressing "Ctrl+S".
+
+13. Type "git add" and space. And then write your filename.(on the terminal)
+
+14. Press Enter
+
+15. Type "git commit -m" and space. And then write "Commit message" (make sure "Comit message" is in quatation marks)
+
+16. Press Enter
+
+17. Type "git push"
+
+18. Press Enter
+
+19. Type your username and password of your github account when "Terminal" asks for it.
+
+20. After typing the username and pssword, then press Enter. 
+
+21. Go to your github repository on internet, and check if your file is saved there.
