@@ -13,5 +13,16 @@
   +add /save the file
   +commit /save the file locally
 
+-python -m SimpleHTTPServer :Start the development server
 
+-sftp brian2284@cmis-hsteacher, Log In 
 
+-put ! to execute it in local
+
+-put filename -upload file
+
+-get filename -upload file
+
+- * -All
+
+-exit - to get out of sftp
