@@ -1,9 +1,38 @@
-h1{
-	font-family:arial;
-	color:red;
-	font-size:30px;
+h1 {
+	font-family: Comic Sans MS;
+	color: #6666CC;
+	font-size: 30px;
+	border-right: dashed;
+	border-left: dashed;	
+	border-top: ridge;
+	border-bottom: ridge;
 }
-p{
-	background-color:#feabab;
-	border:solid 1px #abfefe;
+p {
+	background-color: #B0E0E6;
+	border-style: dotted;
+	font-family: Lucida Console;
 }
+h2 {
+	background-color: #FF7F50;
+	border-style: ridge;
+	font-family: Arial Black;
+}
+html {
+	background-color: #AFEEEE;
+	border-style: solid;
+}
+/* Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font of each element.
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+*Upload to the production server with sftp.
+*View your index.html in the production server.*/
+
