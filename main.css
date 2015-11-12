@@ -1,15 +1,20 @@
 h1 {
 	font-family: Comic Sans MS;
-	color: #6666CC;
+	color: #3399CC;
 	font-size: 30px;
 	border-right: dashed;
 	border-left: dashed;	
 	border-top: ridge;
+	text-align: center;	
 	border-bottom: ridge;
+	border-width: 20px;
+
 }
 p {
+	color: #ffff80;	
 	background-color: #B0E0E6;
 	border-style: dotted;
+	border-color: #CCFF66;
 	font-family: Lucida Console;
 }
 h2 {
@@ -20,6 +25,13 @@ h2 {
 html {
 	background-color: #AFEEEE;
 	border-style: solid;
+	background-image: url(http://freedesignfile.com/upload/2012/09/00229887_medium53.jpg);
+}
+footer {
+	background-color: #99FF00;
+	border-style: ridge;		
+	border-width: 30px;
+
 }
 /* Create a new file called "main.css"
 *Add a link element to the head of your index.html file
