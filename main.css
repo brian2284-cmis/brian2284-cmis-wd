@@ -10,8 +10,16 @@ h1 {
 	border-width: 20px;
 
 }
+h3 {
+	font-family: Comic Sans MS;
+	color: black;	
+	background-color: #FFFF66;
+}
+h4 {
+	color: white;
+}
 p {
-	color: #ffff80;	
+	color: black;	
 	background-color: #B0E0E6;
 	border-style: dotted;
 	border-color: #CCFF66;
@@ -25,13 +33,18 @@ h2 {
 html {
 	background-color: #AFEEEE;
 	border-style: solid;
-	background-image: url(http://freedesignfile.com/upload/2012/09/00229887_medium53.jpg);
+	background-image: url(http://static1.squarespace.com/static/54187c9ee4b05afa19b3140c/t/54266d38e4b08f7343c61949/1411804472943/abstract1.jpg);
 }
 footer {
 	background-color: #99FF00;
 	border-style: ridge;		
 	border-width: 30px;
 
+}
+main {
+	border-style: dashed;
+	border-color: #66FF99;
+	border-width: 20px;
 }
 /* Create a new file called "main.css"
 *Add a link element to the head of your index.html file
