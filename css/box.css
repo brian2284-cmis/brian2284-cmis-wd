@@ -1,0 +1,10 @@
+html{
+	border-style:solid;
+	border-color:#ffe6cc;
+	border-width:10px;
+	background-color:#ffffe5;
+}
+header{
+	border-style:dashed;
+	border-color:#ffccdd;
+}
