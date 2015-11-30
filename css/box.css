@@ -4,7 +4,27 @@ html{
 	border-width:10px;
 	background-color:#ffffe5;
 }
-header{
+header h1{
 	border-style:dashed;
 	border-color:#ffccdd;
+}
+nav ~ li{
+	margin:1cm 1cm 0.3cm 0.3cm;
+	color: blue;
+}
+li{
+	padding: 0.5cm 0.5cm 0.3cm 0.3cm;
+}
+h2{
+	width: 1000px;
+	height: 30px;
+}
+tables{
+	width: 270px;
+}
+body{
+	font-family: Comic Sans MS;
+}
+main >p{
+	color: green;
 }
