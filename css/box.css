@@ -4,11 +4,11 @@ html{
 	border-width:10px;
 	background-color:#ffffe5;
 }
-header h1{
+header>h1{
 	border-style:dashed;
 	border-color:#ffccdd;
 }
-nav ~ li{
+nav li{
 	margin:1cm 1cm 0.3cm 0.3cm;
 	color: blue;
 }
@@ -28,3 +28,10 @@ body{
 main >p{
 	color: green;
 }
+h4+p{
+	margin-left: 0.5cm;
+}
+h1~h3{	
+	color: orange;
+}
+
