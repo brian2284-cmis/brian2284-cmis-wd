@@ -11,6 +11,9 @@ header>h1{
 nav li{
 	margin:1cm 1cm 0.3cm 0.3cm;
 	color: blue;
+	margin-right: 0.5cm;
+	margin-left: 0.5cm;
+ 
 }
 li{
 	padding: 0.5cm 0.5cm 0.3cm 0.3cm;
@@ -27,11 +30,12 @@ body{
 }
 main >p{
 	color: green;
+	font-family: Georgia;
 }
 h4+p{
 	margin-left: 0.5cm;
+	border-color: #FFFF99; 
 }
 h1~h3{	
 	color: orange;
 }
-
