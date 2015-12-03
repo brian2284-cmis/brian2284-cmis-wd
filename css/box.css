@@ -28,7 +28,7 @@ tables{
 body{
 	font-family: Comic Sans MS;
 }
-main >p{
+main>p{
 	color: green;
 	font-family: Georgia;
 }
@@ -38,4 +38,7 @@ h4+p{
 }
 h1~h3{	
 	color: orange;
+	font-size: 60px;
+	padding-left: 5cm;
+	padding-right: 5cm;
 }
