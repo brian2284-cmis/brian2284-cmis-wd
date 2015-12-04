@@ -1,0 +1,33 @@
+header{
+	margin-right: 20cm; 
+}
+h1{
+	border-color: yellow;
+}
+header p{	
+	color: white;
+}
+navigation{
+	margin-left: 10cm;
+	border-style: solid;
+	
+}
+main{
+	background-color: gray;
+	padding-left: 10cm;
+	padding-right: 10cm;
+}	
+main+p{
+	background-color: white;
+}
+p+p{
+	background-color: black;
+}
+footer{
+	background-color: blue;
+	border-style: dashed;
+	border-color: blue:
+	border-width: 13px;
+}
+	background-color: black;
+}
