@@ -1,0 +1,32 @@
+*{	
+	outline: solid red 1px;
+}
+img{
+	float: right;
+	clear: left;
+}
+footer{
+	clear:right;
+}
+article{
+	float: right;
+}
+nav{
+	float: left;
+	width: 169px;
+	padding-top: 3.5px; 
+	padding-bottom: 3.5px;
+}
+nav li{
+	padding-bottom: 9px;
+}
+main{
+	margin-left:170px;
+	
+}
+h1{
+	text-align: center;		
+	
+}
+p{
+}
