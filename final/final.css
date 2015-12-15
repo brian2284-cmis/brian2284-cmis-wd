@@ -3,17 +3,18 @@
 }
 img{
 	float: right;
-	clear: left;
 }
 footer{
 	clear:right;
+	
 }
 article{
-	float: right;
+//	margin-left:170px;
+//	float: right;
 }
 nav{
 	float: left;
-	width: 169px;
+	width: 255px;
 	padding-top: 3.5px; 
 	padding-bottom: 3.5px;
 }
@@ -21,12 +22,24 @@ nav li{
 	padding-bottom: 9px;
 }
 main{
-	margin-left:170px;
+	margin-left:256px;
 	
 }
 h1{
-	text-align: center;		
+	text-align: center;	
 	
 }
 p{
+	width: 900px;
+	font-family: 'Shadows Into Light', cursive;
 }
+ul{
+	width:200px;
+}
+br{
+	clear:right;
+}
+article li{
+	font-family: 'Indie Flower', cursive;
+}
+
