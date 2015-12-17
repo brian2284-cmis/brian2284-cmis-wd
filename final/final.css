@@ -8,15 +8,12 @@ footer{
 	clear:right;
 	
 }
-article{
-//	margin-left:170px;
-//	float: right;
-}
 nav{
 	float: left;
 	width: 255px;
 	padding-top: 3.5px; 
 	padding-bottom: 3.5px;
+	background-color: #DEB887;
 }
 nav li{
 	padding-bottom: 9px;
@@ -42,4 +39,15 @@ br{
 article li{
 	font-family: 'Indie Flower', cursive;
 }
-
+html{
+	background-color: #FFFFCC;
+}
+p{
+	background-color: #FF7F50;
+}
+footer{
+	text-align: center;	
+}
+h2{
+	color: #BDB76B	;
+}
